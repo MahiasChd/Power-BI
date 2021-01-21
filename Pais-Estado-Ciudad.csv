@@ -7025,6 +7025,7 @@
 44;Chile;Araucanía ;Villarrica;-39,28569;-72,2279;19129
 44;Chile;Valparaíso;Viña del Mar;-33,02457;-71,55183;19130
 44;Chile;Bío Bío ;Yumbel;-37,0982;-72,56084;19131
+172;Paraguay;Asunción;Asunción;-25,28646;-57,647;89715
 172;Paraguay;Caazapá;Abaí;-26,03333;-55,93333;89716
 172;Paraguay;Paraguarí ;Acahay;-25,91667;-57,15;89717
 172;Paraguay;Cordillera ;Altos;-25,26263;-57,25443;89718
@@ -7032,11 +7033,10 @@
 172;Paraguay;Central ;Areguá;-25,3125;-57,38472;89720
 172;Paraguay;Itapúa;Arquitecto Tomás Romero Pereira;-26,48333;-55,25;89721
 172;Paraguay;Cordillera ;Arroyos y Esteros;-25,05478;-57,09873;89722
-172;Paraguay;Asunción;Asunción;-25,28646;-57,647;89715
 172;Paraguay;Cordillera ;Atyrá;-25,27876;-57,17192;89723
-172;Paraguay;Concepción ;Belén;-23,46611;-57,26194;89726
 172;Paraguay;Itapúa;Bella Vista;-27,05;-55,55;89724
 172;Paraguay;Amambay ;Bella Vista;-22,13333;-56,51667;89725
+172;Paraguay;Concepción ;Belén;-23,46611;-57,26194;89726
 172;Paraguay;Presidente Hayes ;Benjamín Aceval;-24,96667;-57,56667;89727
 172;Paraguay;Caazapá;Buena Vista;-26,18387;-56,08171;89728
 172;Paraguay;Cordillera ;Caacupé;-25,38575;-57,14217;89729
@@ -7044,10 +7044,10 @@
 172;Paraguay;Paraguarí ;Caapucú;-26,23523;-57,18212;89731
 172;Paraguay;Caazapá;Caazapá;-26,19583;-56,36806;89732
 172;Paraguay;Central ;Capiatá;-25,3552;-57,44545;89733
-172;Paraguay;San Pedro ;Capiíbary;-24,8;-56,03333;89737
 172;Paraguay;Amambay ;Capitán Bado;-23,26667;-55,53333;89734
 172;Paraguay;Itapúa;Capitán Miranda;-27,2;-55,8;89735
 172;Paraguay;Alto Paraguay ;Capitán Pablo Lagerenza;-19,91667;-60,78333;89736
+172;Paraguay;San Pedro ;Capiíbary;-24,8;-56,03333;89737
 172;Paraguay;Cordillera ;Caraguatay;-25,23844;-56,82693;89738
 172;Paraguay;Paraguarí ;Carapeguá;-25,8;-57,23333;89739
 172;Paraguay;Caaguazú;Carayaó;-25,1975;-56,39878;89740
@@ -7090,13 +7090,13 @@
 172;Paraguay;Concepción ;Horqueta;-23,34278;-57,05972;89777
 172;Paraguay;Guairá ;Independencia;-25,691;-56,26781;89778
 172;Paraguay;Cordillera ;Isla Pucú;-25,30853;-56,89986;89779
-172;Paraguay;Central ;Itá;-25,50054;-57,36717;89786
 172;Paraguay;Cordillera ;Itacurubí de la Cordillera;-25,46158;-56,85333;89780
 172;Paraguay;San Pedro ;Itacurubí del Rosario;-24,53541;-56,82352;89781
 172;Paraguay;Alto Paraná ;Itakyry;-24,98611;-55,14963;89782
 172;Paraguay;Guairá ;Itapé;-25,85172;-56,61385;89783
 172;Paraguay;Central ;Itauguá;-25,39258;-57,35421;89784
 172;Paraguay;Guairá ;Iturbe;-26,05508;-56,48463;89785
+172;Paraguay;Central ;Itá;-25,50054;-57,36717;89786
 172;Paraguay;Itapúa;Jesús;-27,05598;-55,7413;89787
 172;Paraguay;Misiones ;Juan de Ayolas;-27,38662;-56,84724;89788
 172;Paraguay;Paraguarí ;La Colmena;-25,88627;-56,84084;89789
@@ -7104,7 +7104,6 @@
 172;Paraguay;Central ;Lambaré;-25,34682;-57,60647;89791
 172;Paraguay;San Pedro ;Lima;-23,88327;-56,48217;89792
 172;Paraguay;Central ;Limpio;-25,16611;-57,48562;89793
-172;Paraguay;Central ;Luque;-24,27;-57,487222;89855
 172;Paraguay;Central ;Mariano Roque Alonso;-25,20791;-57,53202;89794
 172;Paraguay;Guairá ;Mbocayaty;-25,71938;-56,42179;89795
 172;Paraguay;Caaguazú;Mbutuý;-24,97518;-56,30927;89796
@@ -7137,8 +7136,8 @@
 172;Paraguay;Caaguazú;San Joaquín;-25,02853;-56,0428;89823
 172;Paraguay;Caaguazú;San José;-25,53333;-56,73333;89824
 172;Paraguay;Misiones ;San Juan Bautista;-26,66944;-57,14583;89825
-172;Paraguay;Itapúa;San Juan del Paraná;-27,30168;-55,96509;89827
 172;Paraguay;Caazapá;San Juan Nepomuceno;-26,11229;-55,93861;89826
+172;Paraguay;Itapúa;San Juan del Paraná;-27,30168;-55,96509;89827
 172;Paraguay;Central ;San Lorenzo;-25,33968;-57,50879;89828
 172;Paraguay;Misiones ;San Miguel;-26,5;-57,05;89829
 172;Paraguay;Misiones ;San Patricio;-26,96667;-56,81667;89830
@@ -7165,6 +7164,7 @@
 172;Paraguay;Canindeyú;Ygatimi;-24,12371;-55,64418;89851
 172;Paraguay;Alto Paraná ;Yguazú;-25,46187;-55,00007;89852
 172;Paraguay;Caaguazú;Yhú;-25,05784;-55,92267;89853
+172;Paraguay;Alto Paraná ;Hernandarias;-25,366667;-54,75;89857
 172;Paraguay;Central ;Ypacarai;-25,40777;-57,28889;89854
+172;Paraguay;Central ;Luque;-24,27;-57,487222;89856
 172;Paraguay;Caazapá;Yuty;-26,61471;-56,24607;89855
-172;Paraguay;Alto Paraná ;Hernandarias;-25,366667;-54,75;89853
